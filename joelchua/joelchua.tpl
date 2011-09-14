@@ -33,7 +33,7 @@
     <div id='container'>
         <div id='name'>
             <span class='emphasis'>joel</span>
-            <p>gamedesigner,coolielab</p>
+            <p>game</p>
         </div>
         Quote:
         <div id='quote'>
